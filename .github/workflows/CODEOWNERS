@@ -1,0 +1,4 @@
+* @jojin-mp
+*.js @jojin-mp
+*.yml @jojin-mp
+/public/ @jojin-mp
